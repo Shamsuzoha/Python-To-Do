@@ -1,4 +1,4 @@
-FILEPATH = "Todo project\\todos.txt"
+FILEPATH = "todos.txt"
 
 def getTodos(filepath = FILEPATH):
     #Read a text file and return a list of to-do items
